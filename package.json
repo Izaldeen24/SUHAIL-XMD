@@ -1,5 +1,5 @@
 {
-   "name": "izaldeen",
+   "name": "suhail",
    "version": "1.0.2",
    "status": "fixed ytdl",
    "description": "Multi device whatsapp bot.",
@@ -12,7 +12,7 @@
       "run": "pm2 start . --deep-monitoring --attach --name Izaldeen",
       "suhail": "pm2 start . --deep-monitoring --attach --name Izaldeen",
       "start": "pm2 start . --attach --name Suhail",
-      "stop": "pm2 stop Izaldeen",
+      "stop": "pm2 stop Suhail",
       "dbs--postinstall": "npx puppeteer@latest install --y"
    },
    "author": "SuhailTechInfo",
